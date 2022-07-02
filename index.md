@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Üdvözlünk!
 
 You can use the [editor on GitHub](https://github.com/warnew/agrooko.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
