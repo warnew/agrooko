@@ -1,5 +1,9 @@
-Agroökológia Magyarországon
-Ide kellene pár kulcsmondat a Magyar helyzetről
+---
+layout: default
+title: Agroökológia Magyarországon
+parent: Agroökológia - Tudomány, gyakorlat, mozgalom
+nav_order: 2
+---
 
 Magyarországon rendkívül sokféle alternatív, fenntartható, környezetbarát mezőgazdasággal és élelmiszerekkel kapcsolatos kezdeményezés létezik a mezőgazdasági gyakorlat, az agrárkutatás és -felsőoktatás területén. Az agroökológia mint kifejezés olykor félreértésre ad okot, gyakran ellentmondó vagy homályos jelentésekkel használják a civil szféra, a tudomány és a szakpolitika képviselői. Az agroökológiai megközelítés pedig hagyományosan éppen arra alkalmas, hogy összekösse mezőgazdasági termelők, szakágazati kutatók, lelkes civil aktivisták és tudatos fogyasztók munkáját egy regeneratív, társadalmilag igazságos, egészséges élelmiszerrendszer létrehozásában. Az Agroecology Europe európai ernyőszervezet megbízásából, a Védegylet és a Környezeti Társadalomkutatók (ESSRG - Environmental Social Science Research Group) együttműködésében készült tanulmányunk egy 2019-2020-ben elvégzett feltérképezés eredményeit mutatja be.
 
